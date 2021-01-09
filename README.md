@@ -1,5 +1,5 @@
 # hacklock
-Phishing pattern
+"""Steps"""
 `apt-get update -y `
 `apt-get upgrade -y`
 `pkg install python -y`
